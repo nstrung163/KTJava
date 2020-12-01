@@ -1,0 +1,41 @@
+@charset "UTF-8";
+.container {
+	margin-bottom: 20px;
+}
+.result {
+	text-align: center;
+}
+.bg-light {
+    background-color: #a8cdf3 !important;
+}
+.page-footer {
+	position: fixed;
+	bottom: 0;
+	left: 8%;
+	margin-bottom: 0;
+}
+.search-area {
+	display: flex;
+    justify-content: flex-end;
+}
+.ten {
+	color: #000;
+}
+.bg-thead {
+	background-color: #c9dde4;
+}
+.form-search {
+	position: relative;
+}
+.btn-search {
+	position: absolute;
+    right: 10px;
+    border: none;
+}
+.btn-search:hover {
+	background-color: #fff;
+	color: #333;
+}
+.icon-search {
+	
+}
